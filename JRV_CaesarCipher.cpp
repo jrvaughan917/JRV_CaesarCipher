@@ -1,10 +1,5 @@
 /*
-James Vaughan
-Professor Shengli Yuan
-CS 3326 Network Security
-11 September 2014
-
-JRV_CaesarCipher.cpp
+JRV_CaesarCipher.cpp by James R. Vaughan
 Purpose: Solve the CaesarCipher and display time taken to solve
 */
 
